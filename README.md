@@ -79,7 +79,7 @@ Predicts house prices using an Ensemble of XGBoost, Random Forest & Ridge Regres
 ##  How to Run Locally
 
 ```bash
-git clone https://github.com/purbiyarakesh33/house-price-predictor.git
+git clone https://github.com/purbiyarakesh33/house-price-prediction182.git
 cd house-price-predictor
 pip install -r requirements.txt
 streamlit run app.py
