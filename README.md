@@ -3,7 +3,7 @@
 Predicts house prices using an Ensemble of XGBoost, Random Forest & Ridge Regression | Ames Housing Dataset | Streamlit App
 
 ##  Live Demo
-**[https://house-price-predictor182.streamlit.app](https://house-price-prediction182.streamlit.app)**
+**[https://house-price-predictor182.streamlit.app](https://house-price-prediction182.streamlit.app)**  
 
 ---
 
